@@ -1,27 +1,48 @@
-## The Challenge
-Using the following wireframes, build an experiment module interface. Using your comprehension about how the application functions, construct all applicable tests. 
+# Experiment Module Interface Challenge
 
+## Solution
+
+Please run the following commands to set up and run the project locally:
+
+```bash
+git clone https://github.com/bh1337x/challenge-experiment-module
+cd challenge-experiment-module
+npm install
+npm run dev
+```
+
+## The Challenge
+
+Using the following wireframes, build an experiment module interface. Using your comprehension about how the application functions, construct all applicable tests.
 
 ### Experimental Module Panel
+
 <img src="Experiment Module Example.png" alt="Experimental Module Panel"/>
 
 ### Empty Experiment Module
+
 <img src="Experiment Module New.png" alt="Experimental Module New"/>
 
 ### Experiment Module Visual States
+
 <img src="Experiment Module Visual States.png" alt="Experimental Module Visual States"/>
 
 ### Experiment Module Unlocked
+
 <img src="Experiment Module Unlocked.png" alt="Experimental Module Unlocked"/>
 
 ### Export Module Add Iteration Module
+
 <img src="Export Module Add IM.png" alt="Experimental Module Panel"/>
 
 ### Iteration Module
+
 <img src="Iteration Module.png" alt="Iteration Module"/>
 
 ## Instructions
+
 How to attempt this challenge:
+
 1. Create a new repo in your account and note the git url
 2. Clone this repo
 3. Solve the challenge
