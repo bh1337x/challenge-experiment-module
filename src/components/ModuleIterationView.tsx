@@ -20,7 +20,7 @@ export default function ModuleIterationView({
     <div
       onClick={onClick}
       className={clsx(
-        'flex items-center justify-between bg-black px-4 py-2 ',
+        'flex items-center justify-between bg-black px-4 py-2',
         isModuleLocked ? 'cursor-not-allowed' : 'cursor-pointer',
         isFirst && 'rounded-t-lg',
         isLast && 'rounded-b-lg',

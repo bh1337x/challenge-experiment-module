@@ -21,7 +21,7 @@ export default function NewModuleIteration({
       <div
         key={iteration.id}
         className={clsx(
-          'flex items-center justify-between  bg-black px-4 py-4',
+          'flex items-center justify-between bg-black px-4 py-2',
           isFirst && 'rounded-t-lg',
           isLast && 'rounded-b-lg',
           isSingle && 'rounded-lg',

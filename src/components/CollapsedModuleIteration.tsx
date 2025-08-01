@@ -40,7 +40,7 @@ export default function CollapsedModuleIteration({
         </div>
         <div className="flex flex-col">
           <span className="text-[#bdbdbd]">{iteration.title}</span>
-          <div className="text-sm border-b-1 border-[#181818]">
+          <div className="text-sm border-b-1 border-[#181818] font-semibold">
             <button
               onClick={() => toggleSelection('short')}
               className={clsx(
